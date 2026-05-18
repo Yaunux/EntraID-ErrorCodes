@@ -784,3 +784,5 @@
 "500191","Untrusted Certificate"
 "700059","Token acquisition failed because the SPFx principal couldn't silently obtain a valid grant."
 "901182","MFA policy blocked Copilot's silent background token request."
+"5000224","Authentication for your Azure tenant has been temporarily disabled due to a recent security incident."
+"5000612","The Authentication Broker failed because the device is using a deprecated or invalid cryptographic key derivation algorithm."
