@@ -780,3 +780,7 @@
 "9002339","Unsupported user account for this endpoint. The user is a Microsoft Accounts user, but this app does not have the Microsoft account audience enabled. Either enable Microsoft account support to use the /common endpoint or use the tenanted endpoint to target a specific Azure AD tenant for auth."
 "9002340","The permission (scope) list {scopeListString} is missing Rdp flow allowed permissions."
 "9002341","User is required to permit SSO."
+"131010","User not allowed by policy conditions."
+"500191","Untrusted Certificate"
+"700059","Token acquisition failed because the SPFx principal couldn't silently obtain a valid grant."
+"901182","MFA policy blocked Copilot's silent background token request."
