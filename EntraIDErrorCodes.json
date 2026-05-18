@@ -3143,5 +3143,29 @@
     "code": 500532,
     "Message": "Stopped by threatintelligence."
   },
+    {
+    "code": 131010,
+    "Message": "User not allowed by policy conditions."
+  },
+    {
+    "code": 500191,
+    "Message": "Untrusted Certificate"
+  },
+    {
+    "code": 700059,
+    "Message": "Token acquisition failed because the SPFx principal couldn't silently obtain a valid grant."
+  },
+    {
+    "code": 901182,
+    "Message": "MFA policy blocked Copilot's silent background token request."
+  },
+    {
+    "code": 5000224,
+    "Message": "Authentication for your Azure tenant has been temporarily disabled due to a recent security incident."
+  },
+      {
+    "code": 5000612,
+    "Message": "The Authentication Broker failed because the device is using a deprecated or invalid cryptographic key derivation algorithm."
+  },
   
 ]
